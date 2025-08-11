@@ -1,6 +1,1 @@
 Hi I am Sudhanshu
-
-Int x;
-int y;
-
-int z= x+y;
